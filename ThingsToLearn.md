@@ -8,9 +8,9 @@
 # Things to learn
 * Good documentation
 * Hand Off
-- Between Processes
-- At End
-- Repo
+  - Between Processes
+  - At End
+  - Repo
 * Who does what when
 * CI/CD
 * Testing
