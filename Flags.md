@@ -18,6 +18,8 @@
 * Limited engagement from account team
 * No customer exec sponsor
 * Late stage engagement
+* No identified customer Product Owner
+* Project vs. Product Mindset in customer
 
 ## Customers Look For
 
