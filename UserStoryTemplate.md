@@ -1,6 +1,6 @@
-#User Story Template
+# User Story Template
 
-##User Story Title
+## User Story Title
 
 As a "type of user"
 
