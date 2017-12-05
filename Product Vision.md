@@ -6,6 +6,6 @@ Who **want to engage with the cricket community**,
 
 that provides **direct engagament between the cricket community and team**
 
-unlike **cricinfo**, 
+unlike **cricinfo and others** , 
 
-our product allows **direct engagement with Australia cricketers** 
+our product allows **unprecedented access to the  Australia cricket team** 
