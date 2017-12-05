@@ -1,6 +1,7 @@
 # Red/Green Flags
 
 ## Builds Interest
+
 * Complex/Interesting Problem
 * Impactful to customer
 * Early stage
@@ -8,6 +9,7 @@
 * Could produce reusable IP 
 
 ## Risk Indicators
+
 * Little/No detail
 * No evidence of previous investment
 * No specific goal
@@ -17,7 +19,8 @@
 * No customer exec sponsor
 * Late stage engagement
 
-# Customers Look For
+## Customers Look For
+
 * Reduction in tech risk
 * Accelerate initial solution developmnt
 * Engagement/best practices from MS
