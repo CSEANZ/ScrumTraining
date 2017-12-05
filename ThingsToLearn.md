@@ -1,4 +1,5 @@
 # Agility
+## Responding to change while controlling risk
 * Being able to pivot quickly
 * Responding to change requirements
 * scope and prioritise
