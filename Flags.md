@@ -6,7 +6,7 @@
 * Impactful to customer
 * Early stage
 * Dedicated customer developer team engaged
-* Could produce reusable IP 
+* Could produce reusable IP
 
 ## Risk Indicators
 
